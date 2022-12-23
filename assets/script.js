@@ -1,4 +1,4 @@
-g// Assignment code here
+// Assignment code here
 var upper = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
 var lower = "abcdefghijklmnopqrstuvwxyz";
 var numbers = "0123456789";
